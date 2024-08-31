@@ -1,8 +1,3 @@
-#------------------------------------------------------------------------
-# Source File Information (DO NOT MODIFY)
-# Source ID: f421fa11-8f24-4c17-a73b-598a253a9de4
-# Source File: C:\Users\MNRaju\Desktop\MIM check list\MIM_Checklist.psf
-#------------------------------------------------------------------------
 
 <#
     .NOTES
